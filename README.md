@@ -49,7 +49,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Football_Score.git
+git clone https://github.com/Mohitjadav13/Football_Score.git
 ```
 
 2. Install dependencies
@@ -85,7 +85,7 @@ lib/
 - [Flutter](https://flutter.dev/) - UI framework
 - [Firebase](https://firebase.google.com/) - Authentication & Storage
 - [Provider](https://pub.dev/packages/provider) - State management
-- [Football API](https://your-api-provider.com) - Football data services
+- [Football API](https://www.football-data.org/) - Football data services
 
 ## 📄 License
 
@@ -93,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Mohit Jadav** - [GitHub](https://github.com/mohitjadav)
+- **Mohit Jadav** - [GitHub](https://github.com/Mohitjadav13)
 
 ## 👥 Contact
 
@@ -102,4 +102,4 @@ For any queries or suggestions, please reach out at jadavmohit92@gmail.com
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors
-- Football data provided by [API Provider Name]
+- Football data provided by [football-data]
