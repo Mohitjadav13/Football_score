@@ -24,15 +24,23 @@
 
 <table>
   <tr>
-    <td>Live Matches</td>
-    <td>League Tables</td>
+    <td>Login</td>
+    <td>Upcoming Matches</td>
+    <td>Matche Details</td>
+    <td>Finished Matches</td>
     <td>News Feed</td>
+    <td>News Detail</td>
+    <td>League Tables</td>
     <td>Profile</td>
   </tr>
   <tr>
+  <td><img src="screenshots/login.jpg" width="200"/></td>
     <td><img src="screenshots/matches.jpg" width="200"/></td>
-    <td><img src="screenshots/standings.jpg" width="200"/></td>
+    <td><img src="screenshots/matches_details.jpg" width="200"/></td>
+    <td><img src="screenshots/finished_matches.jpg" width="200"/></td>
     <td><img src="screenshots/news.jpg" width="200"/></td>
+    <td><img src="screenshots/news_details.jpg" width="200"/></td>
+    <td><img src="screenshots/standings.jpg" width="200"/></td>
     <td><img src="screenshots/profile.jpg" width="200"/></td>
   </tr>
 </table>
